@@ -2,6 +2,8 @@
 
 这是一个基于CF Pages平台的JavaScript,在天书的基础上进行优化
 
+新增自用spotify广告屏蔽规则集 (Clash)
+
 本人是初学者, 代码有问题欢迎指出
 
 点个星星再走吧
@@ -49,7 +51,7 @@ Pages绑定自定义域名
 |-|-|-|
 | SUB_PATH | `sub` | 订阅路径（支持中文） |
 | SUB_UUID | `550e8400-e29b-41d4-a716-446655440000` | 用于验证的UUID |
-| TXT_URL | `https://raw.githubusercontent.com/ImLTHQ/edge-tunnel/main/Domain.txt` | 优选IP的txt地址  支持多地址  地址之间用换行隔开  格式: 地址:端口#节点名称  端口不填默认443  节点名称不填则使用默认节点名称 |
+| TXT_URL | `https://raw.githubusercontent.com/ImLTHQ/edge-tunnel/main/SpeedTest/HKG.txt` | 优选IP的txt地址  支持多地址  地址之间用换行隔开  格式: 地址:端口#节点名称  端口不填默认443  节点名称不填则使用默认节点名称 |
 | SUB_NAME | `节点` | 默认节点名称 |
 | PROXY_IP | `ts.hpc.tw:443` | 反代IP |
 | SOCKS5_GLOBAL | `ture`,`false` | 启用SOCKS5全局反代 |
@@ -86,21 +88,15 @@ Pages绑定自定义域名
 
 # 已适配客户端
 
-Windows
-- [v2rayN](https://github.com/2dust/v2rayN)
-- clash（[FlClash](https://github.com/chen08209/FlClash), [mihomo-party](https://github.com/mihomo-party-org/mihomo-party), [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev), [Clash Nyanpasu](https://github.com/keiko233/clash-nyanpasu)）
-
-安卓
-- [v2rayNG](https://github.com/2dust/v2rayNG)
-- [ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid)
-
-MacOS
-- [v2rayN](https://github.com/2dust/v2rayN)
-- clash（[FlClash](https://github.com/chen08209/FlClash), [mihomo-party](https://github.com/mihomo-party-org/mihomo-party)）
+- v2ray
+- clash
+- hiddify
+- streisand(需要手动填写配置)
 
 # 未来计划
 
 - 支持sing-box
+- 支持streisand订阅
 
 # 免责声明
 
@@ -127,4 +123,4 @@ MacOS
 作者保留随时更新本免责声明的权利, 且不另行通知。最新版本的免责声明将发布在本项目的 GitHub 页面上。
 
 # 感谢
-[shulng](https://github.com/shulng), [XIU2](https://github.com/XIU2), [zizifn](https://github.com/zizifn), [cmliu](https://github.com/cmliu)
+[shulng](https://github.com/shulng), [XIU2](https://github.com/XIU2), [zizifn](https://github.com/zizifn), [cmliu](https://github.com/cmliu), [x0uid](https://github.com/x0uid)
