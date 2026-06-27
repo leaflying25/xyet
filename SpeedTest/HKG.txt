@@ -3,6 +3,109 @@
 104.19.12.38#香港 3 ↓ 144.18MB/s
 104.19.221.139#香港 4 ↓ 139.95MB/s
 104.17.110.214#香港 5 ↓ 119.64MB/s
+
+104.16.44.19:443#15.78MB/s-175ms-0%-true-SJC-North America-San Jose
+104.18.12.77:443#15.33MB/s-179ms-0%-true-SJC-North America-San Jose
+104.18.167.201:443#14.62MB/s-187ms-0%-true-SJC-North America-San Jose
+104.18.12.22:443#14.16MB/s-186ms-0%-true-SJC-North America-San Jose
+104.18.123.44:443#13.48MB/s-201ms-0%-true-LAX-North America-Los Angeles
+104.17.55.99:443#11.29MB/s-184ms-0%-true-SJC-North America-San Jose
+104.25.212.144:443#10.21MB/s-210ms-0%-true-FRA-Europe-Frankfurt-am-Main
+104.19.88.11:443#9.96MB/s-177ms-0%-true-SJC-North America-San Jose
+104.24.33.203:443#9.96MB/s-204ms-0%-true-FRA-Europe-Frankfurt-am-Main
+104.17.88.44:443#9.50MB/s-175ms-0%-true-SJC-North America-San Jose
+104.19.44.77:443#9.21MB/s-177ms-0%-true-SJC-North America-San Jose
+104.19.88.22:443#9.10MB/s-177ms-0%-true-SJC-North America-San Jose
+104.18.123.201:443#8.55MB/s-180ms-0%-true-LAX-North America-Los Angeles
+172.65.44.203:443#8.44MB/s-156ms-0%-true-SEA-North America-Seattle
+104.17.112.11:443#8.00MB/s-192ms-0%-true-SJC-North America-San Jose
+104.16.77.144:443#7.96MB/s-171ms-0%-true-SJC-North America-San Jose
+104.16.101.55:443#7.82MB/s-182ms-0%-true-SJC-North America-San Jose
+104.25.77.14:443#7.03MB/s-215ms-0%-true-FRA-Europe-Frankfurt-am-Main
+104.17.22.41:443#6.95MB/s-175ms-0%-true-SJC-North America-San Jose
+188.114.97.201:443#6.72MB/s-215ms-0%-true-AMS-Europe-Amsterdam
+104.19.104.99:443#6.67MB/s-204ms-0%-true-SJC-North America-San Jose
+104.18.12.144:443#6.56MB/s-169ms-0%-true-SJC-North America-San Jose
+104.17.88.22:443#6.49MB/s-176ms-0%-true-SJC-North America-San Jose
+104.18.12.99:443#6.49MB/s-177ms-0%-true-SJC-North America-San Jose
+104.17.55.203:443#5.77MB/s-167ms-0%-true-SJC-North America-San Jose
+172.66.45.201:443#5.68MB/s-157ms-0%-true-SEA-North America-Seattle
+104.24.44.122:443#5.60MB/s-199ms-0%-true-FRA-Europe-Frankfurt-am-Main
+104.25.44.122:443#5.58MB/s-213ms-0%-true-FRA-Europe-Frankfurt-am-Main
+172.66.45.77:443#5.33MB/s-178ms-0%-true-SEA-North America-Seattle
+104.17.156.144:443#5.25MB/s-182ms-0%-true-SJC-North America-San Jose
+172.65.44.201:443#5.16MB/s-159ms-0%-true-SEA-North America-Seattle
+104.17.112.144:443#4.92MB/s-171ms-0%-true-SJC-North America-San Jose
+104.17.55.22:443#4.90MB/s-178ms-0%-true-SJC-North America-San Jose
+172.65.44.55:443#4.27MB/s-157ms-0%-true-SEA-North America-Seattle
+104.17.88.201:443#4.18MB/s-167ms-0%-true-SJC-North America-San Jose
+172.65.44.77:443#4.12MB/s-162ms-0%-true-SEA-North America-Seattle
+104.24.33.99:443#3.98MB/s-195ms-0%-true-FRA-Europe-Frankfurt-am-Main
+104.19.178.11:443#3.93MB/s-204ms-0%-true-SJC-North America-San Jose
+104.18.12.44:443#3.75MB/s-182ms-0%-true-SJC-North America-San Jose
+162.159.44.11:443#3.74MB/s-186ms-0%-true-LAX-North America-Los Angeles
+104.18.99.122:443#3.70MB/s-199ms-0%-true-SJC-North America-San Jose
+104.24.33.77:443#3.69MB/s-206ms-0%-true-FRA-Europe-Frankfurt-am-Main
+172.66.45.122:443#3.66MB/s-157ms-0%-true-SEA-North America-Seattle
+172.66.45.144:443#3.59MB/s-166ms-0%-true-SEA-North America-Seattle
+172.65.44.122:443#3.52MB/s-157ms-0%-true-SEA-North America-Seattle
+172.65.33.99:443#3.49MB/s-161ms-0%-true-SEA-North America-Seattle
+104.19.44.11:443#3.36MB/s-212ms-0%-true-SJC-North America-San Jose
+104.18.91.7:443#3.34MB/s-187ms-0%-true-SJC-North America-San Jose
+104.20.33.211:443#3.30MB/s-201ms-0%-true-FRA-Europe-Frankfurt-am-Main
+104.19.178.99:443#2.94MB/s-206ms-0%-true-SJC-North America-San Jose
+104.17.55.77:443#2.81MB/s-195ms-0%-true-SJC-North America-San Jose
+172.65.33.144:443#2.64MB/s-158ms-0%-true-SEA-North America-Seattle
+172.65.33.122:443#2.63MB/s-157ms-0%-true-SEA-North America-Seattle
+188.114.96.201:443#2.60MB/s-201ms-0%-true-AMS-Europe-Amsterdam
+172.65.44.22:443#2.31MB/s-156ms-0%-true-SEA-North America-Seattle
+172.65.44.44:443#2.21MB/s-163ms-0%-true-SEA-North America-Seattle
+162.159.33.11:443#2.01MB/s-185ms-0%-true-LAX-North America-Los Angeles
+104.25.12.199:443#2.00MB/s-213ms-0%-true-FRA-Europe-Frankfurt-am-Main
+162.159.33.22:443#1.78MB/s-186ms-0%-true-LAX-North America-Los Angeles
+104.20.55.128:443#1.71MB/s-205ms-0%-true-FRA-Europe-Frankfurt-am-Main
+162.159.33.201:443#1.69MB/s-179ms-0%-true-LAX-North America-Los Angeles
+188.114.98.122:443#1.62MB/s-179ms-0%-true-LAX-North America-Los Angeles
+162.159.11.144:443#1.54MB/s-175ms-0%-true-LAX-North America-Los Angeles
+104.25.178.144:443#1.40MB/s-201ms-0%-true-FRA-Europe-Frankfurt-am-Main
+172.64.33.122:443#1.36MB/s-176ms-0%-true-LAX-North America-Los Angeles
+104.24.44.11:443#1.35MB/s-198ms-0%-true-FRA-Europe-Frankfurt-am-Main
+162.159.22.144:443#1.32MB/s-180ms-0%-true-LAX-North America-Los Angeles
+162.159.44.44:443#1.28MB/s-187ms-0%-true-LAX-North America-Los Angeles
+188.114.99.144:443#1.22MB/s-174ms-0%-true-LAX-North America-Los Angeles
+104.25.178.11:443#1.19MB/s-201ms-0%-true-FRA-Europe-Frankfurt-am-Main
+188.114.97.144:443#1.14MB/s-199ms-0%-true-AMS-Europe-Amsterdam
+104.21.22.144:443#1.11MB/s-210ms-0%-true-AMS-Europe-Amsterdam
+162.159.22.99:443#1.03MB/s-186ms-0%-true-LAX-North America-Los Angeles
+162.159.33.44:443#1.01MB/s-184ms-0%-true-LAX-North America-Los Angeles
+104.24.167.11:443#1.00MB/s-205ms-0%-true-FRA-Europe-Frankfurt-am-Main
+162.159.44.99:443#0.99MB/s-186ms-0%-true-LAX-North America-Los Angeles
+162.159.22.44:443#0.98MB/s-186ms-0%-true-LAX-North America-Los Angeles
+188.114.99.188:443#0.96MB/s-176ms-0%-true-LAX-North America-Los Angeles
+162.159.44.77:443#0.93MB/s-186ms-0%-true-LAX-North America-Los Angeles
+172.64.33.188:443#0.92MB/s-177ms-0%-true-LAX-North America-Los Angeles
+162.159.33.188:443#0.89MB/s-174ms-0%-true-LAX-North America-Los Angeles
+162.159.22.77:443#0.89MB/s-185ms-0%-true-LAX-North America-Los Angeles
+162.159.44.188:443#0.88MB/s-173ms-0%-true-LAX-North America-Los Angeles
+104.25.77.11:443#0.86MB/s-203ms-0%-true-FRA-Europe-Frankfurt-am-Main
+162.159.33.99:443#0.80MB/s-185ms-0%-true-LAX-North America-Los Angeles
+162.159.11.188:443#0.79MB/s-178ms-0%-true-LAX-North America-Los Angeles
+188.114.97.122:443#0.79MB/s-199ms-0%-true-AMS-Europe-Amsterdam
+162.159.22.199:443#0.59MB/s-175ms-0%-true-LAX-North America-Los Angeles
+162.159.44.122:443#0.57MB/s-177ms-0%-true-LAX-North America-Los Angeles
+162.159.11.88:443#0.57MB/s-184ms-0%-true-LAX-North America-Los Angeles
+162.159.44.22:443#0.57MB/s-186ms-0%-true-LAX-North America-Los Angeles
+104.27.88.99:443#0.57MB/s-212ms-0%-true-FRA-Europe-Frankfurt-am-Main
+162.159.33.77:443#0.53MB/s-185ms-0%-true-LAX-North America-Los Angeles
+172.64.33.144:443#0.44MB/s-177ms-0%-true-LAX-North America-Los Angeles
+188.114.98.201:443#0.36MB/s-181ms-0%-true-LAX-North America-Los Angeles
+162.159.44.201:443#0.32MB/s-179ms-0%-true-LAX-North America-Los Angeles
+162.159.33.122:443#0.19MB/s-172ms-0%-true-LAX-North America-Los Angeles
+188.114.98.144:443#0.19MB/s-172ms-0%-true-LAX-North America-Los Angeles
+162.159.22.201:443#0.17MB/s-178ms-0%-true-LAX-North America-Los Angeles
+188.114.98.33:443#0.12MB/s-183ms-0%-true-LAX-North America-Los Angeles
+
+
 118.218.10.159:443#🇰🇷 韩国¹
 119.205.235.58:443#🇰🇷 韩国²
 119.28.162.39:8443#🇰🇷 韩国³
