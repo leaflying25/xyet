@@ -99,5 +99,5 @@
 162.159.44.201:443#0.32MB/s-179ms-0%-true-LAX-North America-Los Angeles
 162.159.33.122:443#0.19MB/s-172ms-0%-true-LAX-North America-Los Angeles
 188.114.98.144:443#0.19MB/s-172ms-0%-true-LAX-North America-Los Angeles
-162.159.22.201:443#0.17MB/s-178ms-0%-true-LAX-North America-Los Angeles
+
 
